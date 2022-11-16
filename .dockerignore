@@ -1,0 +1,3 @@
+# Files used by docker (aren't part of the docker cache)
+/.dockerignore
+/Dockerfile
